@@ -1,0 +1,15 @@
+{
+  "name": "nguyenvu9513-tea",
+  "version": "1.0.0",
+  "description": "Success is not final, failure is not fatal: It is the courage to continue that counts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenvu9513/nguyenvu9513-tea.git"
+  },
+  "author": "nguyenvu9513",
+  "license": "MIT"
+}
